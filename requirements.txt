@@ -1,0 +1,12 @@
+numpy
+pandas
+pillow
+torch
+torchvision
+requests
+matplotlib
+seaborn
+python-dotenv
+ipykernel
+jupyter
+tqdm

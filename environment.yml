@@ -1,0 +1,22 @@
+name: ae_hw2
+channels:
+  - pytorch
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.10
+  - numpy
+  - pandas
+  - pillow
+  - pytorch
+  - tqdm
+  - torchvision
+  - requests
+  - matplotlib
+  - seaborn
+  - ipykernel
+  - jupyter
+  - pip
+  - pip:
+    - python-dotenv
+

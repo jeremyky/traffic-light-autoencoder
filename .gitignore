@@ -1,0 +1,25 @@
+# Environment variables
+.env
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# macOS
+.DS_Store
+
+# Models
+models_hw2/
+*.pt
+*.pth
+
+# Data 
+training_dataset/
+data/
+training_dataset.zip
